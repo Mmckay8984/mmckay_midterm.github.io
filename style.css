@@ -12,3 +12,18 @@
     font-weight: bold;
 }
 
+.card_style
+{
+    text-decoration: none!important;
+    
+    color:black;
+}
+
+.card:hover
+{
+    color: #1449AF;
+}
+
+a:link {
+    text-decoration: none!important;
+  }
