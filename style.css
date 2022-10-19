@@ -32,3 +32,15 @@
 a:link {
     text-decoration: none!important;
   }
+
+
+.btn-cart
+{
+    background-color: #86DBFF;
+    font-weight: bold;
+}
+
+.btn-cart:hover
+{
+    transform: scale(1.2); 
+}
