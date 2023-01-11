@@ -7,4 +7,4 @@ Azure:
 4. Link your github repo, and select branch, etc
 5. Deploy (github workflow will automatically deploy app to web server)
 6. DONE!
-
+7. Can monitor the service in Azure, take down/up. A workflow will trigger on push to master branch, and auto-build/deploy to Azure Service.
