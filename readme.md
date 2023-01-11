@@ -1,5 +1,6 @@
+Matt McKay
 How to build the project
-
+Live Website: https://jolly-pond-01d96520f.2.azurestaticapps.net/
 Azure:
 1. Create Azure Static Web page, follow this tutorial: https://techcommunity.microsoft.com/t5/educator-developer-blog/host-your-website-on-azure-static-web-apps-for-free/ba-p/3579709
 2. Basically just sign up, create a resource group in Azure
