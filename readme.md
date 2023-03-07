@@ -37,13 +37,13 @@ This workflow file actually deploys the app to Azure. I took down the Server due
 code reviews, code/secret scanning, test builds,) the app would deploy to azure cloud.
 
 o Make ONE change to the code for a sample “post install” change
-Changed price: see commit below:
+- Changed price: see commit below:
 https://github.com/Mmckay8984/mmckay_midterm.github.io/commit/9f8d65fdbae337c9ba7e0b70aeb20bed994662af
 o Highlight “Commits” where you made at least one (1) CHANGE or modification
-https://github.com/Mmckay8984/mmckay_midterm.github.io/commit/9f8d65fdbae337c9ba7e0b70aeb20bed994662af
+- https://github.com/Mmckay8984/mmckay_midterm.github.io/commit/9f8d65fdbae337c9ba7e0b70aeb20bed994662af
 
 o (BONUS) If you can walk through the process to implement this change
-GitHub automatically updates the change on the webserver. Done!
+- GitHub automatically updates the change on the webserver. Done!
 
 
 
