@@ -31,7 +31,8 @@ TO use the app, just click on the link: https://mmckay8984.github.io/mmckay_midt
 
 #  “Demonstrate Understanding of Version control”
 o An article, note, etc. that describes how code will be controlled (i.e. test vs.production)
-So I placed a workflow file here that fires on PR to main branch. https://github.com/Mmckay8984/mmckay_midterm.github.io/tree/main/.github/workflows
+
+- So I placed a workflow file here that fires on PR to main branch. https://github.com/Mmckay8984/mmckay_midterm.github.io/tree/main/.github/workflows
 This workflow file actually deploys the app to Azure. I took down the Server due to college security reasons. Regardless, if a PR is successfull (which can include
 code reviews, code/secret scanning, test builds,) the app would deploy to azure cloud.
 
